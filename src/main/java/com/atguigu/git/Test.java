@@ -6,5 +6,7 @@ package com.atguigu.git;
  * Desc:
  */
 public class Test {
+    public static void main(String[] args) {
 
+    }
 }
